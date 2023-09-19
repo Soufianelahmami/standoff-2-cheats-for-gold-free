@@ -19,36 +19,38 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2815678-1",
+"yandex_inter":"R-M-2815678-3",
+"yandex_native":"R-M-2815678-2",
+"yandex_reward":"R-M-2815678-4",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
 "vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
+"vungle_reward":"",
 
   
-
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://iili.io/HbqCiKP.webp"},
-  {"desc2":"Standoff 2, developed by Axlebolt, is a thrilling and action-packed first-person shooter (FPS) game that has taken the mobile gaming world by storm","photo2":"https://iili.io/HbqC6iB.webp"},
-  {"desc3":" With its impressive graphics, intense gameplay, and a vibrant community","photo3":"https://iili.io/HbqCLUF.webp"},
-  {"desc4":"Standoff 2 has become a must-play for fans of the genre","photo4":"https://iili.io/HbqCsl1.webp"},
-  {"desc5":" In this detailed review, we will delve into the key aspects of the game that make it a standout in the world of mobile FPS gaming","photo5":"https://iili.io/HbqCZHg.webp"},
-  {"descd":"One of the first things that stand out in Standoff 2 is its stunning graphics. The game boasts high-quality textures, detailed character models, and beautifully designed maps","photod":"https://iili.io/HbqCtRa.webp"}
+{"desc1":"Standoff 2, a popular FPS game, has triggered debates due to cheats and hacks. This article explores their impact on gameplay and the gaming   industry.","photo1":"https://iili.io/HyEG28N.jpg"},
+  {"desc2":"Competitive Edge or Unfair Play?: Explore the divisive topic of cheats within Standoff 2, the FPS sensation. Discover how cheats influence the balance of competition and camaraderie among players.","photo2":"https://iili.io/HyEG96v.jpg"},
+  {"desc3":"Gaming Under Fire: Standoff 2's Cheats: Uncover the ongoing debates as cheats infiltrate Standoff 2, a renowned FPS game. Investigate their implications for player experiences and the gaming industry's integrity.","photo3":"https://iili.io/HyEGdap.jpg"},
+  {"desc4":"Beyond the Screen: Cheats in Standoff 2: Venture into the virtual battlegrounds of Standoff 2 and learn about the controversial cheats altering the dynamics of gameplay. Get a glimpse of their wider impact on the gaming world.","photo4":"https://iili.io/HyEGJFR.jpg"},
+  {"desc5":"Fairness vs. Exploitation: Standoff 2 s Cheats: Navigate the ethical complexities of cheats in Standoff 2, the FPS hit. Delve into discussions about whether cheats provide an advantage or ruin the gaming experience.","photo5":"https://iili.io/HyEMj72.jpg"},
+  {"descd":"Gaming s Dark Side: Standoff 2 Cheats Explained: Immerse yourself in the discourse over cheats in Standoff 2, a leading FPS title. Gain insights into how cheats disrupt fair competition and the industry s attempts to combat them.","photod":"https://iili.io/HyEMWg4.jpg"}
    ]
  
 }
-   
